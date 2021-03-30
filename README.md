@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Sparkadelic177/Sparkadelic177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡️ Sparky is my actual real name
+- 💰 I love learning about finance (investing & personal finance)
+- 📖 Avid reader and book worm
+- 🥕Vegan (For health reasons)
+- 🇯🇵 Anime Lover !
+- 😁 Fun fact: I used to be a lifeguard 🏊🏾‍♂️  and an EMT 🚑   and have saved a handful of lives
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I ❤️ JavaScript
+![image](https://i.pinimg.com/originals/c1/2b/e2/c12be2a6c799b2f87a58bbb933315971.gif)
+
+``` JavaScript
+//The Sparky Life Cycle
+  while($me.isAlive()){
+    $me.read()
+    $me.workout()
+    $me.code()
+    $me.watchAnime()
+  }
+```
