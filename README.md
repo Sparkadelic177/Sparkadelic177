@@ -14,7 +14,7 @@
 ``` JavaScript
 //The Sparky Life Cycle
   while($me.isAlive()){
-    $me.read()
+    $me.readBooks()
     $me.workout()
     $me.code()
     $me.watchAnime()
