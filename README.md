@@ -3,7 +3,6 @@
 - ⚡️ Sparky is my actual real name
 - 💰 I love learning about finance (investing & personal finance)
 - 📖 Avid reader and book worm
-- 🥕Vegan (For health reasons)
 - 🇯🇵 Anime Lover !
 - 😁 Fun fact: I used to be a lifeguard 🏊🏾‍♂️  and an EMT 🚑   and have saved a handful of lives
 
